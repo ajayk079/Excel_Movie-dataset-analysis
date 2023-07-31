@@ -1,5 +1,5 @@
 # This is a movie dataset. 
-Introduction:
+## Introduction:
 This data analysis explored a comprehensive movie dataset containing information on various films (This is not real data) from Hollywood and Bollywood.
 The dataset includes details such as: 
 movie_id, movies name, industry, release year, imdb_rating, studios, language_id, budget, revenue, unit, currency etc.
